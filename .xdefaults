@@ -1,0 +1,5 @@
+XTerm*toolBar: false
+XTerm*cursorColor: grey 
+XTerm*foreground: white
+XTerm*background: black
+XTerm*scrollbar: false
