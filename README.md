@@ -1,2 +1,4 @@
 cygwin-setup
 ============
+
+.xdefaults
